@@ -110,8 +110,8 @@ Para validar nuestro formulario, vamos a tener  que hacer lo siguiente:
   Esto va a retornar un booleano. True si sólo contiene letras o false
   si no contiene sólo letras.
 
-  TODO: Agregar la validación para que sólo tenga letras.  
-  TODO: Escribir una prueba
+  TO DO: Agregar la validación para que sólo tenga letras.  
+  TO DO: Escribir una prueba
 
 3.Enviando (submit) el formulario
 =====================
